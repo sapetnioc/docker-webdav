@@ -1,3 +1,5 @@
+![](https://github.com/sapetnioc/docker-webdav/workflows/Docker%20Image/badge.svg)
+
 ## Supported tags
 
 * [`2.4`, `latest` (*2.4/Dockerfile*)](https://github.com/BytemarkHosting/docker-webdav/blob/master/2.4/Dockerfile)
