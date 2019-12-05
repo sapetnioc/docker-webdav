@@ -1,4 +1,4 @@
-![](https://github.com/sapetnioc/docker-webdav/workflows/Docker%20Image/badge.svg)
+![](https://github.com/sapetnioc/docker-webdav/workflows/Docker%20Hub/badge.svg)
 
 ## Supported tags
 
